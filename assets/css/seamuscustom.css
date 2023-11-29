@@ -1,3 +1,16 @@
+.logocontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20%;
+    height: 15rem;
+    margin-top: -35%;
+}
+
+.logocontainer img {
+    height: 66%;
+}
+
 #team {
     /* padding: 4em 5em 2em 5em ; */
     display: -moz-flex;
